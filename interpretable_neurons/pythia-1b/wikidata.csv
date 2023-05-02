@@ -1,0 +1,117 @@
+model,dataset,feature,layer,neuron,test_mcc,test_f1_score,coef
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,8,2125,0.876,0.931,29.002
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,10,4734,0.856,0.918,28.575
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,11,1131,0.837,0.905,26.440
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,7,7703,0.806,0.889,27.922
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,12,6756,0.777,0.865,25.150
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,15,5341,0.599,0.809,-16.198
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,13,3061,0.704,0.807,22.525
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,6,163,0.555,0.741,16.122
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,2,7632,0.292,0.687,7.383
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,9,2534,0.349,0.650,8.300
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,5,3733,0.407,0.646,9.966
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,14,3534,0.411,0.637,11.500
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,3,5060,0.292,0.598,6.186
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,1,5938,0.308,0.594,7.799
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,4,3113,0.498,0.592,9.636
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,0,7196,0.126,0.468,2.058
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,8,2125,0.876,0.940,-29.000
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,10,4734,0.856,0.930,-28.576
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,11,1131,0.837,0.921,-26.443
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,7,7703,0.806,0.907,-27.925
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,12,6756,0.777,0.893,-25.148
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,13,3061,0.704,0.860,-22.517
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,6,163,0.555,0.796,-16.084
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,4,3113,0.498,0.775,-9.644
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,14,3534,0.411,0.740,-11.499
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,5,3733,0.407,0.736,-9.985
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,15,5341,0.599,0.726,16.196
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,9,2534,0.349,0.695,-8.300
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,1,5938,0.308,0.693,-7.799
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,3,5060,0.292,0.680,-6.187
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,0,7196,0.126,0.627,-2.057
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,2,7632,0.292,0.559,-7.378
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,10,6448,0.822,0.897,27.093
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,male,8,264,0.805,0.899,24.770
+pythia-1b,wikidata_sex_or_gender.pyth.128.10000,female,11,6389,0.741,0.873,-21.771
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,8,3749,0.363,0.714,-7.333
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,5,3833,0.346,0.708,-5.863
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,6,4448,0.358,0.704,-7.372
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,13,381,0.345,0.685,-7.433
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,11,2059,0.330,0.677,-7.898
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,1,5577,0.316,0.676,-6.976
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,15,1203,0.247,0.660,-4.502
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,3,6285,0.188,0.640,-3.433
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,2,5681,0.194,0.640,-4.349
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,9,3490,0.317,0.539,7.611
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,7,3885,0.331,0.503,6.401
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,4,6677,0.322,0.471,6.357
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,0,2378,0.109,0.466,1.544
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,10,7768,0.318,0.453,6.065
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,14,8007,0.267,0.397,5.398
+pythia-1b,wikidata_is_alive.pyth.128.10000,false,12,1756,0.259,0.364,5.066
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,7,3885,0.331,0.724,-6.403
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,4,6677,0.326,0.724,-6.357
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,10,7768,0.319,0.722,-6.067
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,9,3490,0.315,0.712,-7.608
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,14,8007,0.267,0.709,-5.399
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,12,1756,0.259,0.707,-5.065
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,13,381,0.345,0.653,7.435
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,11,2059,0.330,0.646,7.898
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,6,4448,0.358,0.627,7.369
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,1,5577,0.311,0.621,6.973
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,0,2378,0.109,0.619,-1.544
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,8,3749,0.363,0.590,7.336
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,5,3833,0.351,0.587,5.868
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,15,1203,0.247,0.555,4.503
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,2,5681,0.194,0.519,4.349
+pythia-1b,wikidata_is_alive.pyth.128.10000,true,3,6285,0.188,0.509,3.433
+pythia-1b,wikidata_occupation.pyth.128.30000,actor,12,7261,0.296,0.376,7.252
+pythia-1b,wikidata_occupation.pyth.128.30000,actor,10,7763,0.293,0.373,7.646
+pythia-1b,wikidata_occupation.pyth.128.30000,actor,10,1286,0.263,0.349,7.323
+pythia-1b,wikidata_occupation.pyth.128.30000,association football player,10,2583,0.331,0.402,7.090
+pythia-1b,wikidata_occupation.pyth.128.30000,association football player,12,2522,0.318,0.383,6.849
+pythia-1b,wikidata_occupation.pyth.128.30000,association football player,11,347,0.299,0.380,6.102
+pythia-1b,wikidata_occupation.pyth.128.30000,basketball player,10,2680,0.340,0.402,7.212
+pythia-1b,wikidata_occupation.pyth.128.30000,basketball player,11,347,0.295,0.372,6.512
+pythia-1b,wikidata_occupation.pyth.128.30000,basketball player,13,3887,0.288,0.353,5.990
+pythia-1b,wikidata_occupation.pyth.128.30000,businessperson,14,4600,0.159,0.214,2.945
+pythia-1b,wikidata_occupation.pyth.128.30000,businessperson,12,8138,0.120,0.182,3.280
+pythia-1b,wikidata_occupation.pyth.128.30000,businessperson,10,594,0.114,0.170,3.366
+pythia-1b,wikidata_occupation.pyth.128.30000,journalist,10,4490,0.252,0.335,5.311
+pythia-1b,wikidata_occupation.pyth.128.30000,journalist,10,7730,0.215,0.310,5.799
+pythia-1b,wikidata_occupation.pyth.128.30000,journalist,8,7271,0.213,0.306,5.305
+pythia-1b,wikidata_occupation.pyth.128.30000,lawyer,7,4591,0.256,0.337,5.579
+pythia-1b,wikidata_occupation.pyth.128.30000,lawyer,10,3050,0.255,0.337,5.882
+pythia-1b,wikidata_occupation.pyth.128.30000,lawyer,10,1743,0.254,0.336,5.273
+pythia-1b,wikidata_occupation.pyth.128.30000,politician,10,2673,0.222,0.314,5.304
+pythia-1b,wikidata_occupation.pyth.128.30000,politician,7,6668,0.218,0.308,5.294
+pythia-1b,wikidata_occupation.pyth.128.30000,politician,7,4591,0.204,0.298,4.766
+pythia-1b,wikidata_occupation.pyth.128.30000,researcher,10,7620,0.247,0.339,7.033
+pythia-1b,wikidata_occupation.pyth.128.30000,researcher,6,5898,0.211,0.310,-5.925
+pythia-1b,wikidata_occupation.pyth.128.30000,researcher,8,2692,0.212,0.303,4.605
+pythia-1b,wikidata_occupation.pyth.128.30000,singer,12,531,0.419,0.476,8.296
+pythia-1b,wikidata_occupation.pyth.128.30000,singer,15,3952,0.377,0.433,7.161
+pythia-1b,wikidata_occupation.pyth.128.30000,singer,14,5864,0.370,0.425,7.016
+pythia-1b,wikidata_occupation.pyth.128.30000,writer,10,7010,0.228,0.323,4.968
+pythia-1b,wikidata_occupation.pyth.128.30000,writer,8,7271,0.221,0.316,4.728
+pythia-1b,wikidata_occupation.pyth.128.30000,writer,10,3958,0.229,0.316,5.184
+pythia-1b,wikidata_political_party.pyth.128.10000,Republican Party,1,3557,0.104,0.666,-1.583
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,Australia,9,2837,0.240,0.378,5.686
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,Australia,10,4363,0.223,0.376,6.266
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,Australia,9,2016,0.222,0.375,6.157
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,Canada,10,6047,0.268,0.389,6.848
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,Canada,12,2051,0.224,0.365,-6.237
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,Canada,6,2441,0.206,0.361,-7.605
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,France,10,4307,0.718,0.759,18.765
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,France,6,2420,0.715,0.757,18.537
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,France,12,5451,0.706,0.751,18.341
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,Germany,6,4423,0.729,0.772,20.117
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,Germany,9,2964,0.736,0.770,20.038
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,Germany,12,5272,0.726,0.765,21.637
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,United Kingdom,6,6600,0.318,0.450,7.778
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,United Kingdom,9,2837,0.324,0.449,5.532
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,United Kingdom,10,3748,0.290,0.421,5.974
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,United States of America,10,6367,0.345,0.465,8.202
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,United States of America,12,7129,0.326,0.448,6.301
+pythia-1b,wikidata_country_of_citizenship.pyth.128.18000,United States of America,7,6979,0.349,0.424,4.783

@@ -1,0 +1,31 @@
+model,dataset,feature,layer,neuron,test_mcc,test_f1_score,coef
+pythia-2.8b,wikidata_occupation.pyth.128.30000,actor,19,2176,0.349,0.419,7.259
+pythia-2.8b,wikidata_occupation.pyth.128.30000,actor,18,3679,0.345,0.419,7.383
+pythia-2.8b,wikidata_occupation.pyth.128.30000,actor,22,5361,0.325,0.403,8.036
+pythia-2.8b,wikidata_occupation.pyth.128.30000,association football player,18,5777,0.462,0.485,9.967
+pythia-2.8b,wikidata_occupation.pyth.128.30000,association football player,21,122,0.313,0.382,7.445
+pythia-2.8b,wikidata_occupation.pyth.128.30000,association football player,19,5431,0.315,0.379,6.723
+pythia-2.8b,wikidata_occupation.pyth.128.30000,basketball player,17,8218,0.391,0.409,6.780
+pythia-2.8b,wikidata_occupation.pyth.128.30000,basketball player,28,427,0.354,0.408,6.969
+pythia-2.8b,wikidata_occupation.pyth.128.30000,basketball player,18,2748,0.356,0.394,5.570
+pythia-2.8b,wikidata_occupation.pyth.128.30000,businessperson,8,10149,0.229,0.297,5.330
+pythia-2.8b,wikidata_occupation.pyth.128.30000,businessperson,23,7507,0.255,0.294,4.386
+pythia-2.8b,wikidata_occupation.pyth.128.30000,businessperson,8,2304,0.219,0.277,3.801
+pythia-2.8b,wikidata_occupation.pyth.128.30000,journalist,12,4755,0.301,0.376,7.181
+pythia-2.8b,wikidata_occupation.pyth.128.30000,journalist,22,6182,0.297,0.372,6.458
+pythia-2.8b,wikidata_occupation.pyth.128.30000,journalist,8,1425,0.285,0.363,7.059
+pythia-2.8b,wikidata_occupation.pyth.128.30000,lawyer,8,2503,0.257,0.346,6.342
+pythia-2.8b,wikidata_occupation.pyth.128.30000,lawyer,21,3745,0.248,0.339,5.342
+pythia-2.8b,wikidata_occupation.pyth.128.30000,lawyer,15,5167,0.243,0.335,5.324
+pythia-2.8b,wikidata_occupation.pyth.128.30000,politician,19,5225,0.264,0.347,5.674
+pythia-2.8b,wikidata_occupation.pyth.128.30000,politician,8,4334,0.234,0.321,4.781
+pythia-2.8b,wikidata_occupation.pyth.128.30000,politician,6,7823,0.229,0.318,5.694
+pythia-2.8b,wikidata_occupation.pyth.128.30000,researcher,10,9109,0.271,0.332,4.790
+pythia-2.8b,wikidata_occupation.pyth.128.30000,researcher,13,5933,0.244,0.324,4.982
+pythia-2.8b,wikidata_occupation.pyth.128.30000,researcher,13,5257,0.228,0.313,5.293
+pythia-2.8b,wikidata_occupation.pyth.128.30000,singer,20,8583,0.440,0.496,8.883
+pythia-2.8b,wikidata_occupation.pyth.128.30000,singer,20,9611,0.383,0.447,8.726
+pythia-2.8b,wikidata_occupation.pyth.128.30000,singer,13,9463,0.399,0.445,7.862
+pythia-2.8b,wikidata_occupation.pyth.128.30000,writer,22,3273,0.278,0.356,5.784
+pythia-2.8b,wikidata_occupation.pyth.128.30000,writer,9,934,0.247,0.334,5.415
+pythia-2.8b,wikidata_occupation.pyth.128.30000,writer,18,6992,0.251,0.333,5.822

@@ -1,0 +1,303 @@
+model,dataset,feature,layer,neuron,test_mcc,test_f1_score,coef
+pythia-6.9b,wikidata_sex_or_gender.pyth.128.6000,female,12,4043,0.881,0.935,24.363
+pythia-6.9b,wikidata_sex_or_gender.pyth.128.6000,female,12,13198,0.842,0.923,-21.535
+pythia-6.9b,wikidata_sex_or_gender.pyth.128.6000,female,16,740,0.825,0.899,22.896
+pythia-6.9b,wikidata_sex_or_gender.pyth.128.6000,male,12,4043,0.881,0.940,-24.368
+pythia-6.9b,wikidata_sex_or_gender.pyth.128.6000,male,16,740,0.825,0.913,-22.893
+pythia-6.9b,wikidata_sex_or_gender.pyth.128.6000,male,12,13198,0.842,0.912,21.537
+pythia-6.9b,wikidata_political_party.pyth.128.1000,Democratic Party,21,1635,0.254,0.705,-2.864
+pythia-6.9b,wikidata_political_party.pyth.128.1000,Democratic Party,11,926,0.242,0.694,-1.912
+pythia-6.9b,wikidata_political_party.pyth.128.1000,Democratic Party,12,17,0.191,0.694,-2.649
+pythia-6.9b,wikidata_political_party.pyth.128.1000,Republican Party,10,13715,0.273,0.675,-1.927
+pythia-6.9b,wikidata_political_party.pyth.128.1000,Republican Party,20,14647,0.240,0.674,-2.945
+pythia-6.9b,wikidata_political_party.pyth.128.1000,Republican Party,11,10862,0.249,0.673,-3.031
+pythia-6.9b,wikidata_occupation.pyth.128.7000,actor,15,10563,0.419,0.498,6.878
+pythia-6.9b,wikidata_occupation.pyth.128.7000,actor,14,11981,0.401,0.493,7.792
+pythia-6.9b,wikidata_occupation.pyth.128.7000,actor,19,2285,0.392,0.482,7.465
+pythia-6.9b,wikidata_occupation.pyth.128.7000,association football player,19,10761,0.503,0.514,8.975
+pythia-6.9b,wikidata_occupation.pyth.128.7000,association football player,19,3514,0.427,0.499,8.460
+pythia-6.9b,wikidata_occupation.pyth.128.7000,association football player,15,2298,0.424,0.498,8.290
+pythia-6.9b,wikidata_occupation.pyth.128.7000,journalist,19,1710,0.385,0.464,6.046
+pythia-6.9b,wikidata_occupation.pyth.128.7000,journalist,11,12221,0.364,0.456,7.099
+pythia-6.9b,wikidata_occupation.pyth.128.7000,journalist,17,13622,0.347,0.442,5.380
+pythia-6.9b,wikidata_occupation.pyth.128.7000,lawyer,14,9420,0.306,0.409,6.596
+pythia-6.9b,wikidata_occupation.pyth.128.7000,lawyer,13,7311,0.274,0.389,5.130
+pythia-6.9b,wikidata_occupation.pyth.128.7000,lawyer,18,15844,0.284,0.387,4.644
+pythia-6.9b,wikidata_occupation.pyth.128.7000,politician,9,613,0.353,0.445,5.631
+pythia-6.9b,wikidata_occupation.pyth.128.7000,politician,18,14947,0.335,0.432,5.303
+pythia-6.9b,wikidata_occupation.pyth.128.7000,politician,14,9420,0.307,0.408,4.939
+pythia-6.9b,wikidata_occupation.pyth.128.7000,researcher,12,11379,0.261,0.380,-8.497
+pythia-6.9b,wikidata_occupation.pyth.128.7000,researcher,9,13692,0.225,0.359,-4.477
+pythia-6.9b,wikidata_occupation.pyth.128.7000,researcher,14,6141,0.230,0.357,-5.373
+pythia-6.9b,wikidata_occupation.pyth.128.7000,singer,11,12667,0.444,0.494,8.660
+pythia-6.9b,wikidata_occupation.pyth.128.7000,singer,18,7612,0.424,0.493,8.375
+pythia-6.9b,wikidata_occupation.pyth.128.7000,singer,23,8865,0.416,0.488,8.740
+pythia-6.9b,wikidata_is_alive.pyth.128.6000,false,16,3376,0.482,0.768,-9.076
+pythia-6.9b,wikidata_is_alive.pyth.128.6000,false,17,11166,0.450,0.752,-9.944
+pythia-6.9b,wikidata_is_alive.pyth.128.6000,false,17,13178,0.412,0.744,-7.655
+pythia-6.9b,wikidata_is_alive.pyth.128.6000,true,17,16123,0.463,0.758,-9.113
+pythia-6.9b,wikidata_is_alive.pyth.128.6000,true,16,1880,0.451,0.755,-8.665
+pythia-6.9b,wikidata_is_alive.pyth.128.6000,true,14,5036,0.423,0.745,-7.826
+pythia-6.9b,wikidata_is_alive.pyth.128.2000,false,16,3376,0.493,0.761,-7.287
+pythia-6.9b,wikidata_is_alive.pyth.128.2000,false,1,7775,0.485,0.754,-7.598
+pythia-6.9b,wikidata_is_alive.pyth.128.2000,false,17,11166,0.443,0.738,-7.900
+pythia-6.9b,wikidata_is_alive.pyth.128.2000,true,16,1880,0.458,0.770,-7.168
+pythia-6.9b,wikidata_is_alive.pyth.128.2000,true,13,4251,0.456,0.769,-6.228
+pythia-6.9b,wikidata_is_alive.pyth.128.2000,true,11,3979,0.445,0.766,-6.658
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,American football player,20,10306,0.504,0.566,10.704
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,American football player,14,4059,0.325,0.443,7.448
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,American football player,25,6043,0.321,0.424,6.362
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,association football player,19,10761,0.510,0.553,7.347
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,association football player,20,5237,0.430,0.507,6.237
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,association football player,10,6286,0.391,0.505,4.642
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,baseball player,20,13139,0.549,0.619,10.424
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,baseball player,19,549,0.524,0.596,8.761
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,baseball player,21,16105,0.502,0.576,8.575
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,basketball player,21,1348,0.287,0.389,4.962
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,basketball player,21,3125,0.216,0.356,4.053
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,basketball player,19,2490,0.265,0.355,5.719
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,cricketer,20,6979,0.480,0.477,7.495
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,cricketer,16,7058,0.291,0.400,7.341
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,cricketer,24,10382,0.313,0.393,4.124
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,ice hockey player,20,2367,0.632,0.685,10.371
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,ice hockey player,21,5325,0.497,0.584,8.793
+pythia-6.9b,wikidata_occupation_athlete.pyth.128.3000,ice hockey player,22,6129,0.480,0.578,9.072
+pythia-6.9b,wikidata_full_political_party.pyth.128.1000,Democratic Party,21,1635,0.326,0.721,-4.613
+pythia-6.9b,wikidata_full_political_party.pyth.128.1000,Democratic Party,25,165,0.316,0.712,-3.890
+pythia-6.9b,wikidata_full_political_party.pyth.128.1000,Democratic Party,12,6765,0.273,0.697,-2.239
+pythia-6.9b,wikidata_full_political_party.pyth.128.1000,Democratic Party,8,3492,0.254,0.696,-2.504
+pythia-6.9b,wikidata_full_political_party.pyth.128.1000,Democratic Party,12,17,0.236,0.695,-3.499
+pythia-6.9b,wikidata_full_political_party.pyth.128.1000,Republican Party,8,6609,0.338,0.711,-2.971
+pythia-6.9b,wikidata_full_political_party.pyth.128.1000,Republican Party,20,14647,0.285,0.693,-4.235
+pythia-6.9b,wikidata_full_political_party.pyth.128.1000,Republican Party,11,9311,0.267,0.691,-2.671
+pythia-6.9b,wikidata_full_political_party.pyth.128.1000,Republican Party,13,2972,0.277,0.688,-4.174
+pythia-6.9b,wikidata_full_political_party.pyth.128.1000,Republican Party,12,1491,0.244,0.687,-2.438
+pythia-6.9b,wikidata_full_is_alive.pyth.128.2000,false,16,3376,0.539,0.791,-8.831
+pythia-6.9b,wikidata_full_is_alive.pyth.128.2000,false,17,5653,0.550,0.791,-10.088
+pythia-6.9b,wikidata_full_is_alive.pyth.128.2000,false,17,11166,0.526,0.783,-9.772
+pythia-6.9b,wikidata_full_is_alive.pyth.128.2000,false,13,4783,0.518,0.782,-7.732
+pythia-6.9b,wikidata_full_is_alive.pyth.128.2000,false,14,14740,0.496,0.775,-6.307
+pythia-6.9b,wikidata_full_is_alive.pyth.128.2000,true,16,1880,0.536,0.784,-8.642
+pythia-6.9b,wikidata_full_is_alive.pyth.128.2000,true,17,16123,0.536,0.782,-7.992
+pythia-6.9b,wikidata_full_is_alive.pyth.128.2000,true,11,3979,0.515,0.775,-8.606
+pythia-6.9b,wikidata_full_is_alive.pyth.128.2000,true,13,4251,0.486,0.766,-7.595
+pythia-6.9b,wikidata_full_is_alive.pyth.128.2000,true,17,11334,0.484,0.765,-6.787
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,American football player,20,10306,0.817,0.849,13.852
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,American football player,14,4059,0.526,0.620,9.605
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,American football player,25,6043,0.484,0.576,8.437
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,American football player,25,11561,0.472,0.558,5.554
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,American football player,22,8510,0.436,0.552,8.641
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,association football player,19,10761,0.664,0.697,11.484
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,association football player,14,11993,0.635,0.678,9.635
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,association football player,20,9457,0.617,0.675,9.636
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,association football player,23,8729,0.648,0.667,8.786
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,association football player,21,933,0.587,0.659,9.168
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,baseball player,20,13139,0.820,0.849,13.338
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,baseball player,19,549,0.815,0.844,13.594
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,baseball player,21,16105,0.767,0.803,12.567
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,baseball player,24,10397,0.744,0.779,12.054
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,baseball player,24,13403,0.569,0.645,7.823
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,basketball player,19,2490,0.504,0.565,8.243
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,basketball player,21,1348,0.411,0.524,6.788
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,basketball player,19,3520,0.394,0.510,7.334
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,basketball player,21,3125,0.302,0.464,5.663
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,basketball player,22,15700,0.365,0.460,6.772
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,ice hockey player,20,2367,0.733,0.773,13.322
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,ice hockey player,22,6129,0.583,0.667,11.531
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,ice hockey player,27,6165,0.566,0.639,10.433
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,ice hockey player,21,5325,0.547,0.631,10.678
+pythia-6.9b,wikidata_full_occupation_athlete.pyth.128.2500,ice hockey player,21,12113,0.551,0.627,10.498
+pythia-6.9b,wikidata_full_sex_or_gender.pyth.128.6000,female,12,4043,0.888,0.940,24.215
+pythia-6.9b,wikidata_full_sex_or_gender.pyth.128.6000,female,12,13198,0.818,0.912,-21.885
+pythia-6.9b,wikidata_full_sex_or_gender.pyth.128.6000,female,16,740,0.844,0.910,23.000
+pythia-6.9b,wikidata_full_sex_or_gender.pyth.128.6000,female,19,16039,0.834,0.904,22.265
+pythia-6.9b,wikidata_full_sex_or_gender.pyth.128.6000,female,15,14295,0.790,0.874,21.981
+pythia-6.9b,wikidata_full_sex_or_gender.pyth.128.6000,male,12,4043,0.888,0.944,-24.216
+pythia-6.9b,wikidata_full_sex_or_gender.pyth.128.6000,male,16,740,0.844,0.922,-23.000
+pythia-6.9b,wikidata_full_sex_or_gender.pyth.128.6000,male,19,16039,0.834,0.917,-22.265
+pythia-6.9b,wikidata_full_sex_or_gender.pyth.128.6000,male,12,13198,0.818,0.899,21.885
+pythia-6.9b,wikidata_full_sex_or_gender.pyth.128.6000,male,15,14295,0.790,0.896,-21.974
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,actor,19,2285,0.554,0.633,11.314
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,actor,11,12827,0.543,0.622,10.977
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,actor,15,10563,0.548,0.616,11.391
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,actor,14,11981,0.502,0.595,10.669
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,actor,9,4502,0.533,0.593,10.477
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,association football player,19,10761,0.727,0.741,13.979
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,association football player,15,2298,0.662,0.713,12.952
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,association football player,19,3514,0.661,0.711,13.184
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,association football player,11,6071,0.649,0.704,13.355
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,association football player,21,5514,0.647,0.682,13.017
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,journalist,9,3974,0.553,0.609,11.668
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,journalist,8,14366,0.518,0.595,10.269
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,journalist,14,7939,0.498,0.584,10.332
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,journalist,13,4292,0.492,0.575,9.686
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,journalist,11,12221,0.505,0.575,8.687
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,politician,18,14947,0.550,0.603,12.266
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,politician,9,613,0.557,0.592,12.072
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,politician,14,9420,0.531,0.586,11.238
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,politician,11,4111,0.497,0.547,8.072
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,politician,11,4867,0.504,0.541,9.374
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,researcher,12,11379,0.378,0.485,-11.885
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,researcher,7,2213,0.336,0.461,-7.236
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,researcher,14,8563,0.337,0.459,-7.241
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,researcher,14,6141,0.342,0.457,-7.237
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,researcher,9,2833,0.356,0.455,-12.138
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,singer,23,8865,0.604,0.650,11.519
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,singer,11,12667,0.623,0.645,11.687
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,singer,18,7612,0.579,0.625,11.279
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,singer,9,1000,0.552,0.613,9.915
+pythia-6.9b,wikidata_full_occupation.pyth.128.6000,singer,19,6141,0.535,0.599,10.876
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,false,17,5653,0.812,0.908,-22.369
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,false,17,11166,0.653,0.834,-16.384
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,false,11,11690,0.640,0.830,-15.986
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,false,16,3376,0.643,0.830,-14.559
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,false,17,3087,0.614,0.819,-15.582
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,17,5653,0.812,0.896,22.369
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,14,205,0.710,0.861,-18.246
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,17,16123,0.704,0.859,-19.297
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,16,4634,0.677,0.847,-16.144
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,22,12688,0.679,0.846,-16.355
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,12,4043,0.959,0.979,26.812
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,12,13198,0.938,0.969,-25.922
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,16,740,0.938,0.967,25.723
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,19,16039,0.897,0.943,24.770
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,19,6101,0.873,0.936,-23.575
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,male,12,4043,0.959,0.980,-26.807
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,male,16,740,0.938,0.970,-25.737
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,male,12,13198,0.937,0.968,25.892
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,male,19,16039,0.897,0.950,-24.775
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,male,15,14295,0.877,0.940,-25.342
+pythia-6.9b,wikidata_sorted_political_party.pyth.128.3000,Democratic Party,21,1635,0.357,0.724,-6.992
+pythia-6.9b,wikidata_sorted_political_party.pyth.128.3000,Democratic Party,12,17,0.267,0.698,-5.837
+pythia-6.9b,wikidata_sorted_political_party.pyth.128.3000,Democratic Party,11,926,0.276,0.695,-6.517
+pythia-6.9b,wikidata_sorted_political_party.pyth.128.3000,Democratic Party,11,9004,0.245,0.693,-5.067
+pythia-6.9b,wikidata_sorted_political_party.pyth.128.3000,Democratic Party,25,165,0.301,0.693,-5.750
+pythia-6.9b,wikidata_sorted_political_party.pyth.128.3000,Republican Party,20,14647,0.372,0.726,-7.768
+pythia-6.9b,wikidata_sorted_political_party.pyth.128.3000,Republican Party,9,12483,0.331,0.706,-7.233
+pythia-6.9b,wikidata_sorted_political_party.pyth.128.3000,Republican Party,11,9311,0.299,0.705,-4.643
+pythia-6.9b,wikidata_sorted_political_party.pyth.128.3000,Republican Party,11,1465,0.273,0.695,-4.239
+pythia-6.9b,wikidata_sorted_political_party.pyth.128.3000,Republican Party,24,13338,0.264,0.689,-4.780
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,actor,9,4502,0.752,0.792,16.346
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,actor,11,12827,0.704,0.754,14.870
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,actor,9,4815,0.702,0.751,14.851
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,actor,19,2285,0.695,0.746,15.279
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,actor,8,2581,0.678,0.732,14.508
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,association football player,19,10761,0.886,0.901,19.048
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,association football player,19,3514,0.878,0.899,18.969
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,association football player,15,2298,0.865,0.888,18.749
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,association football player,11,6071,0.842,0.870,19.073
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,association football player,21,5514,0.809,0.835,18.933
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,journalist,9,3974,0.626,0.679,13.492
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,journalist,19,3401,0.560,0.615,11.411
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,journalist,13,4292,0.527,0.604,9.995
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,journalist,17,2695,0.511,0.591,10.596
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,journalist,11,13336,0.509,0.585,9.469
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,politician,14,11265,0.641,0.659,9.510
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,politician,9,613,0.608,0.654,12.269
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,politician,12,6021,0.576,0.647,11.006
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,politician,11,14371,0.625,0.647,8.995
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,politician,17,6316,0.578,0.640,11.371
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,researcher,12,11379,0.458,0.545,-14.476
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,researcher,16,8414,0.434,0.527,8.518
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,researcher,14,6961,0.419,0.515,-7.547
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,researcher,10,9789,0.399,0.498,-7.961
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,researcher,9,2833,0.422,0.496,-15.027
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,singer,11,12667,0.767,0.794,15.501
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,singer,23,8865,0.743,0.780,15.554
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,singer,18,7612,0.709,0.750,15.214
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,singer,19,6141,0.704,0.744,14.848
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,singer,14,13229,0.672,0.705,13.323
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,athlete,9,12997,0.802,0.832,16.932
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,athlete,11,6071,0.703,0.750,14.643
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,athlete,18,301,0.713,0.749,14.264
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,athlete,7,687,0.694,0.740,14.489
+pythia-6.9b,wikidata_sorted_occupation.pyth.128.6000,athlete,13,2842,0.656,0.701,12.727
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,American football player,20,10306,0.824,0.854,17.621
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,American football player,14,4059,0.539,0.638,11.490
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,American football player,22,8510,0.483,0.595,10.810
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,American football player,26,8721,0.462,0.568,10.614
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,American football player,25,6043,0.452,0.560,10.450
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,association football player,19,10761,0.878,0.898,17.850
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,association football player,21,15517,0.738,0.786,15.981
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,association football player,20,5237,0.716,0.768,16.026
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,association football player,21,2938,0.732,0.760,13.210
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,association football player,20,6089,0.695,0.756,15.040
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,baseball player,19,549,0.875,0.896,17.813
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,baseball player,20,13139,0.853,0.879,17.851
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,baseball player,21,16105,0.828,0.855,17.451
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,baseball player,24,10397,0.751,0.791,16.455
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,baseball player,22,10774,0.550,0.637,11.995
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,basketball player,19,2490,0.635,0.696,12.562
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,basketball player,19,3520,0.560,0.648,11.468
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,basketball player,22,15700,0.532,0.622,9.531
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,basketball player,21,1348,0.484,0.587,9.725
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,basketball player,21,3125,0.451,0.568,9.578
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,ice hockey player,20,2367,0.772,0.807,16.323
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,ice hockey player,22,6129,0.591,0.674,13.221
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,ice hockey player,30,7136,0.590,0.637,10.847
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,ice hockey player,21,5325,0.539,0.633,12.958
+pythia-6.9b,wikidata_sorted_occupation_athlete.pyth.128.5000,ice hockey player,27,6165,0.548,0.627,12.265
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,12,4043,0.959,0.979,26.812
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,16,740,0.938,0.967,25.723
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,19,16039,0.897,0.943,24.770
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,15,14295,0.877,0.930,25.343
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,21,10916,0.813,0.885,22.363
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,9,996,0.761,0.883,-21.533
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,18,5896,0.762,0.883,-22.577
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,17,14169,0.791,0.875,22.441
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,20,10862,0.788,0.868,21.911
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,14,10510,0.782,0.865,22.221
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,8,11854,0.724,0.864,-20.377
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,10,13565,0.758,0.854,22.831
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,6,2461,0.749,0.843,21.719
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,23,3406,0.748,0.840,21.040
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,22,15240,0.746,0.835,19.495
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,31,1206,0.634,0.823,-15.077
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,27,7017,0.699,0.815,19.077
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,7,6608,0.706,0.798,19.128
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,28,10547,0.562,0.795,-13.060
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,25,13838,0.677,0.791,17.771
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,29,9656,0.610,0.769,15.041
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,26,7833,0.621,0.717,16.067
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,5,12018,0.526,0.676,9.847
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,11,13013,0.567,0.675,15.053
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,2,3579,0.242,0.669,4.125
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,13,12727,0.424,0.650,10.570
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,4,11445,0.377,0.641,9.321
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,24,11803,0.371,0.615,8.893
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,1,9202,0.228,0.598,4.584
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,30,9280,0.467,0.562,7.262
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,0,13812,0.100,0.560,-1.763
+pythia-6.9b,wikidata_sorted_sex_or_gender.pyth.128.6000,female,3,9578,0.267,0.559,-5.575
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,17,5653,0.812,0.896,22.369
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,14,205,0.710,0.861,-18.246
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,16,4634,0.677,0.847,-16.144
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,22,12688,0.679,0.846,-16.355
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,11,3979,0.656,0.838,-17.145
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,7,7006,0.646,0.830,-15.094
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,12,15841,0.641,0.830,-15.899
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,10,448,0.636,0.829,-16.190
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,9,8383,0.621,0.823,-15.474
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,20,8234,0.628,0.823,-15.385
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,19,2355,0.597,0.813,-15.159
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,23,11860,0.575,0.804,-14.353
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,18,11684,0.564,0.800,-13.334
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,25,15265,0.531,0.787,-13.542
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,30,2994,0.516,0.778,-12.611
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,24,8010,0.505,0.777,-11.176
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,26,1424,0.496,0.773,-10.966
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,8,5925,0.604,0.754,14.426
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,2,3579,0.437,0.748,8.167
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,31,4547,0.449,0.747,-9.293
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,1,7775,0.551,0.734,13.097
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,13,233,0.615,0.731,15.657
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,28,6384,0.550,0.725,11.732
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,3,3322,0.345,0.722,-6.503
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,6,13747,0.560,0.717,14.468
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,5,8668,0.470,0.693,11.654
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,21,11193,0.567,0.687,9.942
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,27,2055,0.486,0.682,10.897
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,15,13616,0.528,0.658,8.872
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,29,1458,0.437,0.649,9.319
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,0,726,0.122,0.643,-2.064
+pythia-6.9b,wikidata_sorted_is_alive.pyth.128.6000,true,4,13296,0.253,0.590,5.342

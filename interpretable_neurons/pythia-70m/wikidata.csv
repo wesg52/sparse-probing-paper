@@ -1,0 +1,35 @@
+model,dataset,feature,layer,neuron,test_mcc,test_f1_score,coef
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,female,3,897,0.602,0.778,18.215
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,female,5,1333,0.528,0.719,15.590
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,female,1,1368,0.168,0.599,-3.193
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,female,4,1456,0.228,0.597,5.333
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,female,2,718,0.204,0.559,4.323
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,female,0,715,0.132,0.514,2.179
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,male,3,897,0.602,0.815,-18.217
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,male,5,1333,0.528,0.786,-15.550
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,male,2,718,0.204,0.637,-4.323
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,male,4,1456,0.228,0.630,-5.333
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,male,0,715,0.132,0.608,-2.175
+pythia-70m,wikidata_sex_or_gender.pyth.128.10000,male,1,1368,0.168,0.565,3.190
+pythia-70m,wikidata_is_alive.pyth.128.10000,false,3,925,0.297,0.677,-6.519
+pythia-70m,wikidata_is_alive.pyth.128.10000,false,4,688,0.278,0.645,-6.495
+pythia-70m,wikidata_is_alive.pyth.128.10000,false,1,472,0.212,0.641,-4.303
+pythia-70m,wikidata_is_alive.pyth.128.10000,false,0,320,0.106,0.604,-1.096
+pythia-70m,wikidata_is_alive.pyth.128.10000,false,2,1706,0.128,0.596,-2.917
+pythia-70m,wikidata_is_alive.pyth.128.10000,false,5,1791,0.264,0.537,6.591
+pythia-70m,wikidata_is_alive.pyth.128.10000,true,5,1791,0.264,0.688,-6.590
+pythia-70m,wikidata_is_alive.pyth.128.10000,true,4,688,0.278,0.630,6.500
+pythia-70m,wikidata_is_alive.pyth.128.10000,true,3,925,0.297,0.594,6.518
+pythia-70m,wikidata_is_alive.pyth.128.10000,true,1,472,0.212,0.547,4.304
+pythia-70m,wikidata_is_alive.pyth.128.10000,true,2,1706,0.128,0.516,2.918
+pythia-70m,wikidata_is_alive.pyth.128.10000,true,0,320,0.106,0.470,1.096
+pythia-70m,wikidata_occupation.pyth.128.30000,actor,5,885,0.160,0.266,4.030
+pythia-70m,wikidata_occupation.pyth.128.30000,association football player,5,637,0.224,0.320,5.264
+pythia-70m,wikidata_occupation.pyth.128.30000,basketball player,5,637,0.219,0.310,5.736
+pythia-70m,wikidata_occupation.pyth.128.30000,businessperson,5,1007,0.080,0.146,2.434
+pythia-70m,wikidata_occupation.pyth.128.30000,journalist,5,1613,0.122,0.240,4.173
+pythia-70m,wikidata_occupation.pyth.128.30000,lawyer,5,1078,0.174,0.270,4.721
+pythia-70m,wikidata_occupation.pyth.128.30000,politician,5,1233,0.209,0.305,5.714
+pythia-70m,wikidata_occupation.pyth.128.30000,researcher,4,303,0.187,0.289,-5.048
+pythia-70m,wikidata_occupation.pyth.128.30000,singer,5,873,0.263,0.351,5.654
+pythia-70m,wikidata_occupation.pyth.128.30000,writer,4,171,0.162,0.271,4.383

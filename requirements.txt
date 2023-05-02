@@ -1,0 +1,25 @@
+gurobipy >= 10
+transformer-lens
+torch
+torchtext
+numpy
+pandas
+tqdm
+matplotlib
+scikit-learn
+scipy
+plotly
+ipython
+jupyter
+pylint
+autopep8
+seaborn
+notebook
+conllu
+circuitsvis
+zstandard
+spacy[apple]
+spacy-alignments
+sparqlwrapper
+google-re2
+numba
