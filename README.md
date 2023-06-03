@@ -1,5 +1,5 @@
 # sparse-probing
-Code repository for `Finding Neurons in a Haystack: Case Studies with Sparse Probing`
+Code repository for [Finding Neurons in a Haystack: Case Studies with Sparse Probing](https://arxiv.org/abs/2305.01610)
 
 Pardon our mess. We are working on developing an easier to use package integrated with TransformerLens. The basis core of sparse probing can be implemented very easily with just sklearn applied to a dataset of activations acquired with raw Pytorch hooks or TransformerLens. This repository is almost all experimental infrastructure and analysis specific to our set up of datasets and compute (slurm).
 
@@ -42,4 +42,11 @@ export HF_HOME=/Users/wesgurnee/Documents/mechint/sparse_probing/sparse-probing/
 
 ## Cite us
 If you found our work helpful, please cite our paper:
-<!-- # TODO -->
+```
+@article{gurnee2023finding,
+  title={Finding Neurons in a Haystack: Case Studies with Sparse Probing},
+  author={Gurnee, Wes and Nanda, Neel and Pauly, Matthew and Harvey, Katherine and Troitskii, Dmitrii and Bertsimas, Dimitris},
+  journal={arXiv preprint arXiv:2305.01610},
+  year={2023}
+}
+```
