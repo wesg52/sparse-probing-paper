@@ -1,7 +1,9 @@
 # sparse-probing
 Code repository for [Finding Neurons in a Haystack: Case Studies with Sparse Probing](https://arxiv.org/abs/2305.01610)
 
-Pardon our mess. We are working on developing an easier to use package integrated with TransformerLens. The basis core of sparse probing can be implemented very easily with just sklearn applied to a dataset of activations acquired with raw Pytorch hooks or TransformerLens. This repository is almost all experimental infrastructure and analysis specific to our set up of datasets and compute (slurm).
+Pardon our mess. The basic core of sparse probing can be implemented very easily with just sklearn applied to a dataset of activations acquired with raw Pytorch hooks or TransformerLens. This repository is almost all experimental infrastructure and analysis specific to our set up of datasets and compute (slurm).
+
+See [this](https://github.com/wesg52/llm-context-neurons/tree/main) repository for a minimal replication of finding context neurons.
 
 ## Organization
 We expect most people to simply be interested in a large list of relevant neurons, available as CSVs within `interpretable_neurons/`. Note these are for the Pythia V0 models, which have since been updated on HuggingFace.
