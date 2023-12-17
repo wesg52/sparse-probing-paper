@@ -10,7 +10,7 @@ We expect most people to simply be interested in a large list of relevant neuron
 
 Our top level scripts for saving activations and running probing experiments can be count in `get_activations.py` and `probing_experiment.py`. All of command line argument configurations can be viewed in the `experiments/` directory, which contain all of the slurm scripts we used to run our experiments.
 
-`probing_datasets/` contain the modules required to make and prepare all of our feature datasets. We recommend simply downloading them from [].
+`probing_datasets/` contain the modules required to make and prepare all of our feature datasets. We recommend simply downloading them from [dropbox](https://www.dropbox.com/sh/cr2vw4owv6dkw7t/AADvkDwJYKyYDC56q1S8dAS_a?dl=0).
 
 Analysis and plotting code is distributed within individual notebooks and `analysis/`.
 
